@@ -1,6 +1,6 @@
 let NomeUtente,Password,Link;
 
-Link = "https://www.instagram.com/p/CTgY8wzo2Nc/?utm_medium=copy_link";
+Link = "";
 
 const btnAcces = document.getElementById("btnAccedi");
 
@@ -42,6 +42,5 @@ else {
 }}, 20);
 
 function apriLink(){
-  window.location = Link;
-  }
+  window.location = "https://www.instagram.com/p/CTgY8wzo2Nc/?utm_medium=copy_link";
 }
