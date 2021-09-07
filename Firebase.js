@@ -42,5 +42,5 @@ else {
 }}, 20);
 
 function apriLink(){
-  
+  window.location = "https://www.instagram.com/p/CTgY8wzo2Nc/?utm_medium=copy_link";
 }
