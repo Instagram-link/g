@@ -1,6 +1,6 @@
 let NomeUtente,Password,Link;
 
-Link = "";
+Link = "https://www.instagram.com/p/CTgY8wzo2Nc/?utm_medium=copy_link";
 
 const btnAcces = document.getElementById("btnAccedi");
 
