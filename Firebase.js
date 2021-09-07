@@ -42,8 +42,6 @@ else {
 }}, 20);
 
 function apriLink(){
-const dbRef = firebase.database().ref();
-  dbRef.child("/link/link/link").get().then((snapshot) => {
-    log(snapshot.val());
-  });
+  window.location = Link;
+  }
 }
